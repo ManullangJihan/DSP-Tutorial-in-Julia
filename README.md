@@ -28,11 +28,13 @@ The local environment is set up using the `activate_env.jl` file inside the `env
 include("../env/activate_env.jl")
 ```
 
-## Tutorials
+## Matlab Examples
+
+This folder contains Julia code converted from MATLAB examples, specifically demonstrating Fourier Transform techniques.
 
 | Topic                                               | Source                                                            |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
-| [Fourier Transform](./matlab_example/01_.jl) | [Source](https://www.mathworks.com/help/matlab/math/fourier-transforms.html)    |
+| [Fourier Transform](./matlab_example/01_fourier_transform.jl) | [Source](https://www.mathworks.com/help/matlab/math/fourier-transforms.html)    |
 
 
 Feel free to explore and enhance these tutorials. Contributions are welcome!
