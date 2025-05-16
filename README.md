@@ -1,6 +1,6 @@
 # Digital Signal Processing (DSP) Tutorials in Julia
 
-Welcome to the DSP Tutorials in Julia repository! This repository provides various examples and tutorials for Digital Signal Processing (DSP) using Julia, with code examples derived from MATLAB, PinkWin, and ThinkDSP.
+Welcome to the DSP Tutorials in Julia repository! This repository provides various examples and tutorials for Digital Signal Processing (DSP) using Julia.
 
 ## Project Structure
 
