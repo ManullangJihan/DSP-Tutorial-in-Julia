@@ -28,13 +28,15 @@ The local environment is set up using the `activate_env.jl` file inside the `env
 include("../env/activate_env.jl")
 ```
 
-## Matlab Examples
+## matlab_example
 
 This folder contains Julia code converted from MATLAB examples, specifically demonstrating Fourier Transform techniques.
 
 | Topic                                               | Source                                                            |
 | --------------------------------------------------- | ----------------------------------------------------------------- |
-| [Fourier Transform](./matlab_example/01_fourier_transform.jl) | [Source](https://www.mathworks.com/help/matlab/math/fourier-transforms.html)    |
-
+| [Fourier Transform](./matlab_example/fourier_transform.jl) | [Source](https://www.mathworks.com/help/matlab/math/fourier-transforms.html)    |
+| [Convolution Filter to Smooth Data](./matlab_example/smooth_data_with_convolution.jl) | [Source](https://www.mathworks.com/help/matlab/data_analysis/convolution-filter-to-smooth-data.html)    |
+| [Analyzing Cyclical Data with FFT](./matlab_example/analyzing_cyclical_data_with_FFT.jl) | [Source](https://www.mathworks.com/help/matlab/math/using-fft.html)    |
+| [Square Wave From Sine Waves](./matlab_example/square_wave_form_sin_wave.jl) | [Source](https://www.mathworks.com/help/matlab/math/square-wave-from-sine-waves.html)    |
 
 Feel free to explore and enhance these tutorials. Contributions are welcome!
